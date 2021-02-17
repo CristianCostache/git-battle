@@ -21,3 +21,5 @@ The first one to attack is picked randomly and both players are changing their r
 2. Install the [TypeScript Compiler](https://code.visualstudio.com/docs/typescript/typescript-compiling)
 3. **tsc .\main.ts**
 4. **node .\main.js**
+
+alabalaportocala
